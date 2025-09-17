@@ -6,7 +6,7 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 
 ## Equipments Required:
 1. Hardware – PCs
-2. Anaconda – Python 3.7 Installation / Jupyter notebook
+2. Anaconda – Python 3.7 Installation / Jupyter noteboook
 
 ## Algorithm
 1.Import Necessary Libraries: Import required libraries such as pandas, numpy, matplotlib, sklearn for the implementation.
